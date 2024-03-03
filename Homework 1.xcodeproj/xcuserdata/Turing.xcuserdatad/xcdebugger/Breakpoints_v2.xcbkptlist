@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A5D2C126-5ADF-4CA9-B6A2-8F75D4CAFBAC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homework 1/OperatingSystemsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "OperatingSystemsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 740770cab8aa19e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.sldrFinalExamValue.getter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 6793fccbc72e4d20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.sldrFinalExamValue.setter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 55823c84ceffd2f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.sldrFinalExamValue.modify : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 5df7741a3353f58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.sldrFinalExamValue.modify : Swift.Optional&lt;__C.UISlider&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 1c4679e93559ef7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Homework_1.OperatingSystemsViewController"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 33003e5242b9ce89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Homework_1.OperatingSystemsViewController&gt;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - badaa88f0e468c70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.sldrFinalProjectValue.getter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - cb7331c87f3599e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.sldrFinalProjectValue.setter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 41c09711ebf3424f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.sldrFinalProjectValue.modify : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 14e1782a455ac595"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.sldrFinalProjectValue.modify : Swift.Optional&lt;__C.UISlider&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 1c4679e93559d10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Homework_1.OperatingSystemsViewController"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "714EE5C0-32F4-4430-97BC-26537AE0F552 - 33003e5242b9cd6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Homework_1.OperatingSystemsViewController&gt;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C333F1F-4C03-4860-9D52-1C4CCE8091CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homework 1/OperatingSystemsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "OperatingSystemsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8C333F1F-4C03-4860-9D52-1C4CCE8091CE - 1c4679e93559dad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Homework_1.OperatingSystemsViewController"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "8C333F1F-4C03-4860-9D52-1C4CCE8091CE - 33003e5242b9cdd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homework_1.OperatingSystemsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Homework_1.OperatingSystemsViewController&gt;"
+                  moduleName = "Homework 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Turing/Desktop/Homework%201/Homework%201/OperatingSystemsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
